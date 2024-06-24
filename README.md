@@ -3,7 +3,7 @@
 it excites me as a new stage in Big Data Stories 
 
 Data Science:
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Keras
 
 <!--
 **Lichtleinn/Lichtleinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
